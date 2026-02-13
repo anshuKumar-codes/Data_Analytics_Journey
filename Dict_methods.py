@@ -28,3 +28,4 @@ marks={"Anshu":100,"Manish": 50,"Shubham": 100}
 # marks.copy() # return copy of dictionary
 # print(marks)
 
+print(marks)
